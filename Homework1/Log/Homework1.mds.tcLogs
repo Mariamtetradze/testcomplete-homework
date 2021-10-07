@@ -23,12 +23,39 @@
 		<Node name="logs">
 			<Node name="log idx=0000">
 				<Prp name="caption" type="S" value=""/>
-				<Prp name="datetime" type="D" value="44474.7391578819"/>
+				<Prp name="datetime" type="D" value="44476.7250320949"/>
 				<Prp name="description" type="S" value=""/>
-				<Prp name="key" type="S" value="{13776D1E-63E9-450D-AF10-77FE6410620D}"/>
-				<Prp name="nameofroot" type="S" value="Script Test Log [Task2Unit\Test4]"/>
-				<Prp name="relpath" type="S" value="10_5_2021_5_44 PM_23_241\Description.tcLog"/>
-				<Prp name="status" type="I" value="0"/>
+				<Prp name="key" type="S" value="{41945520-23FB-4B0F-8CC1-D93493A4788C}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [test\TestSQL_ADO]"/>
+				<Prp name="relpath" type="S" value="10_7_2021_5_24 PM_02_773\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0001">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44476.7254073958"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{F9C0E6D0-1169-4FE3-95D7-5B7EFB6F7C54}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [CallDB\printName]"/>
+				<Prp name="relpath" type="S" value="10_7_2021_5_24 PM_35_199\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0002">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44476.7270297222"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{63B9A8BE-E6E0-45CB-AECA-7210AE1494D1}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [test\TestSQL_ADO]"/>
+				<Prp name="relpath" type="S" value="10_7_2021_5_26 PM_55_368\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
+			</Node>
+			<Node name="log idx=0003">
+				<Prp name="caption" type="S" value=""/>
+				<Prp name="datetime" type="D" value="44476.7292822454"/>
+				<Prp name="description" type="S" value=""/>
+				<Prp name="key" type="S" value="{DBE087F6-3714-4CA2-9194-75F2AF7371F3}"/>
+				<Prp name="nameofroot" type="S" value="Script Test Log [test\SQLOptions]"/>
+				<Prp name="relpath" type="S" value="10_7_2021_5_30 PM_09_986\Description.tcLog"/>
+				<Prp name="status" type="I" value="2"/>
 			</Node>
 		</Node>
 		<Prp name="signature" type="S" value="{681DCC69-A39F-4C4D-8E7D-B2D9362FAF4F}"/>
